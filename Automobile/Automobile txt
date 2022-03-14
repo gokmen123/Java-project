@@ -1,0 +1,2 @@
+This is a program which used to modify an automobile. Written with hardcoding. It takes commands from user and changes prices of automobiles by adding modification. We got different modifies
+for cars and motorcycles. Some of them are common some of them are private to each different automobile type. We can add more types of cars by manually. 
